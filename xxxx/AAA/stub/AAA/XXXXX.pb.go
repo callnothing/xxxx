@@ -4,7 +4,7 @@
 // 	protoc        v3.6.1
 // source: XXXXX.proto
 
-package stubs
+package AAA
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
