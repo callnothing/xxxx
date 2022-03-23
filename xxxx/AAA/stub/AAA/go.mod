@@ -1,0 +1,1 @@
+module github.com/callnothing/xxxx/tree/main/xxxx/AAA/stub/AAA
