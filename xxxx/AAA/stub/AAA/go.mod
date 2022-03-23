@@ -1,1 +1,1 @@
-module github.com/callnothing/xxxx/tree/main/xxxx/AAA/stub/AAA
+module github.com/callnothing/xxxx/xxxx/AAA/stub/AAA
