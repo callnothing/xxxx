@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package XX.XXXX;
+
+option go_package="github.com/callnothing/xxxx/grpc-go/XX/XXXX";
+
+
+service AXXX {
+    rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+
+message HelloRequest {
+    string msg = 1;
+}
+message HelloReply {
+    string msg = 1;
+    string code = 2;
+}
